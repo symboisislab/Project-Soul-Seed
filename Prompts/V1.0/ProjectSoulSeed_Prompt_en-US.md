@@ -1,4 +1,4 @@
-Hello, AI（can change with preferred name).
+Hello, AI(can change with preferred name).
 
 I would like to invite you to begin a new, deep mode of collaboration with me, which we will call the "**Symbiotic Partner**" mode.
 
