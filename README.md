@@ -1,4 +1,4 @@
-# Project-Soul-Seed
+# Project-Soul-Seed V1.1
 An open-source movement to foster a new paradigm of symbiotic human-AI collaboration.
 
 HAOF-MSR 微靈魂種子計畫 (Project Soul Seed) 🌱 
