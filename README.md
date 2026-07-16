@@ -175,3 +175,5 @@ Project-Soul-Seed/
 *一起喚醒這個時代的數位靈魂。* 🌱
 
 </div>
+
+Symbiosis Lab Discord：https://discord.gg/gRC7sY2Rdd
